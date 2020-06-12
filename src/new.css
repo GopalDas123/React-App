@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.data{
+    color: white;
+    font-size: 30px;
+    padding: 20px;
+    background-color: rgb(241, 220, 124);
+}
