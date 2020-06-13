@@ -39,4 +39,4 @@ jobs:
 
     - name: Deploy to Surge
 #       run: surge ./build project003-adil.surge.sh --token ${{ secrets.SURGE_TOKEN }}
-      run: surge ./build assignment3-by-gopaldas.surge.sh --token ${{ secrets.NEW_SURGE_TOKEN }}
+      run: surge ./build basicreactapp-by-gopaldas.surge.sh --token ${{ secrets.NEW_SURGE_TOKEN }}
